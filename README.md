@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nexus-Verify: Compliance Engine (Banking Edition)
 
 ## 🎯 Project Objective
@@ -17,3 +18,7 @@ Nexus-Verify is a production-grade AI engine designed to automate **Model Risk M
 ## 🛡️ Security & Quality
 - **Type Safety:** Strict Pydantic schemas for all AI inputs/outputs.
 - **Privacy:** Local execution to prevent PII (Personally Identifiable Information) leakage.
+=======
+# nexus-verify
+Nexus-Verify: A self-correcting Multi-Agent Compliance Engine for OSFI E-23, PHIPA &amp; CNSC. Built with LangGraph, vLLM, and DuckDB to automate model risk management in regulated Canadian industries.
+>>>>>>> bb15c1c78e058a751d4322903a27040e3d6582ec
